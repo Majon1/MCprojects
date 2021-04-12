@@ -83,6 +83,7 @@ public class FinalProject
         Console.WriteLine("");
       }
 
+      //counts the non-null values in the arrays
       for (int i = 0; i < strings1.Length; i++)
       {
         if (strings1[i] != "")
